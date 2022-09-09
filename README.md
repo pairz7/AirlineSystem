@@ -21,3 +21,4 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 基于Vue2+Element UI的飞机订票系统前端
+http://120.25.192.156
