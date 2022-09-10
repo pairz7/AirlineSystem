@@ -1,4 +1,4 @@
-# 飞机订票系统
+## 飞机订票系统
 
 > 基于Vue2+Element UI的飞机订票系统前端 
 > Preview: http://120.25.192.156
@@ -12,7 +12,7 @@ Contact me:pair7z@163.com
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:80
 npm run dev
 
 # build for production with minification
