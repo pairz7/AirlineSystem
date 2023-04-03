@@ -1,7 +1,7 @@
 ## 飞机订票系统
 
 > 基于Vue2+Element UI的飞机订票系统前端 
-> Preview: http://120.25.192.156
+> Preview: http://pair7z.com/project/fly/#/
 
 界面设计部分仿照携程
 第一次接触Web前端 练手项目
